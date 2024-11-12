@@ -5,7 +5,10 @@
 - Must Have 머신러닝·딥러닝 문제해결 전략 : 9791191905076
 
 # The result of the competition 
-- (Kaggle Playground) Regression with a Flood Prediction Dataset : 1406 / 2788 (51%)
-- (Kaggle Playground) Classification with an Academic Success Dataset : 194 / 2684 (8%)
-- (Kaggle) ISIC 2024 - Skin Cancer Detection with 3D-TBP : 1621 / 2739 (60%)
-- (Dacon) 제 2회 AI 신약개발 경진대회 : 304 / 916 (33%)
+- **DACON**
+    - 제 2회 AI 신약개발 경진대회 (32%, 2024-8 ~ 2024-9)
+    - 바이오 AI융합 해커톤 (41%, 2022-11 ~ 2022-12)
+- **Kaggle**
+    - Playground : Regression with a Flood Prediction Dataset : 1406 / 2788 (51%)
+    - PlayGround : Classficiation with an Academic Success Dataset (8%, 2024-04 ~ 2024-06)
+    - ICIC 2024 : Skin Cancer Detection with 3D-TBP (60%, 2024-07 ~ 2024-09)
